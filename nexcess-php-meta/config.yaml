@@ -19,6 +19,7 @@ php_versions:
   - "php82"
   - "php83"
   - "php84"
+  - "php85"
 php_base_packages:
   - "php-bcmath"
   - "php-brotli"
@@ -177,6 +178,13 @@ php83_specific_packages:
   - "php-pecl-geoip"
   - "php-pecl-redis5"
 php84_specific_packages:
+  - "php-ast"
+  - "php-json"
+  - "php-sodium"
+  - "php-pecl-igbinary"
+  - "php-pecl-geoip"
+  - "php-pecl-redis5"
+php85_specific_packages:
   - "php-ast"
   - "php-json"
   - "php-sodium"

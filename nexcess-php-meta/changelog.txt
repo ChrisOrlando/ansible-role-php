@@ -1,2 +1,4 @@
+*Thu Jun 25 2026 Chris Orlando <chrsorlando@gmail.com> - 2026.6.25-01
+- Add support for PHP 8.5.
 *Mon Jan 26 2026 James Coleman <james.coleman@liquidweb.com> - 2026.1.26-01
 - Initial build
